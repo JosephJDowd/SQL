@@ -1,5 +1,5 @@
 # SQL
-SQL code projects
+SQL code projects, including removing NULL values, incorporating JOINS and 
 
 ## SQL Tasks
 
