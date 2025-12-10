@@ -1,5 +1,5 @@
 # SQL
-SQL code projects, including removing NULL values, incorporating JOINS and 
+SQL code project using world data. Using key functions including removing of NULL values, incorporating JOINS and other functions to validate and clean data
 
 ## SQL Tasks
 
